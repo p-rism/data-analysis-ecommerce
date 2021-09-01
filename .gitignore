@@ -112,3 +112,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Jupyter checkpoint
+**/*.ipynb_checkpoints/
+
+# ignore credentials
+mycredentials.py
